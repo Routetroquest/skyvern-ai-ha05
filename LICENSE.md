@@ -1,4 +1,4 @@
-# 
+# Gratuito Skyvern plugins. Con computación en el borde y ajuste fino — optimizado para el máximo rendimiento y eficiencia.
 
 
 
